@@ -1,2 +1,2 @@
 # shopApi
-Fullstack application  for online shoping store using ejs and express.js 
+Fullstack application  for online shopping store using ejs and express.js 
